@@ -515,5 +515,390 @@
       "D": "A and B are the same."
     },
     "correct_answer": "A"
+  },
+  {
+    "question_number": "752",
+    "question": "When you enter Tucker Balch's Coin Toss Casino, what is the better strategy? Bet a dollar at 1000 booths or bet 1000 at one single booth?",
+    "options": {
+      "A": "It doesn't matter because both strategies have the same expected return",
+      "B": "Betting a dollar at 1000 booths because you lower risk",
+      "C": "Betting 1000 at a single booth because it is higher reward  Correct answer: B Question 753: Simple Moving Average and Standard Deviation of a stock's price are technical indicators of what, respectively:  A) Volatility, and Momentum B) Momentum, and Volatility C) Both are indicators of Volatility",
+      "D": "Both are indicators of momentum"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": "356",
+    "question": "What is an example of exogenous data for an airline stock?",
+    "options": {
+      "A": "The price of oil",
+      "B": "The company's stock price",
+      "C": "The company's quarterly reports",
+      "D": "Private information known only to the CEO"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": "278",
+    "question": "The subprime lending industry ...",
+    "options": {
+      "A": "attracted sleazy people",
+      "B": "was fragmented",
+      "C": "was a fast-buck business",
+      "D": "all of the above"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": "385",
+    "question": "which one of the followings is not an advantage of buying options?",
+    "options": {
+      "A": "can't lose more than the premium that you paid",
+      "B": "leverage to control more money",
+      "C": "tie with less money",
+      "D": "has an expiration date"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": "318",
+    "question": "Which strategy expose risk of unlimited lose (if executed alone)?",
+    "options": {
+      "A": "Buy Call",
+      "B": "Write Call",
+      "C": "Buy Put",
+      "D": "Write Put"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": "698",
+    "question": "The fundamental law is IR = IC * root(breadth). Which of the following statements is correct regarding the fundamental law?",
+    "options": {
+      "A": "Only IC can be improved easily",
+      "B": "Only Breadth can be improved easily",
+      "C": "Both IC and Breadth can be improved easily",
+      "D": "Neither IC or Breadth can be improved easily"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": "257",
+    "question": "Which of the following statements about technical analysis is not true?",
+    "options": {
+      "A": "Technical analysis is most useful for shorter time periods",
+      "B": "Technical analysis Includes price data only",
+      "C": "Technical analysis performs better considering multiple indicators",
+      "D": "Technical analysis is useful in detecting deviation of a stock from the market"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": "144",
+    "question": "how does Bollinger band predict the price of the stock?",
+    "options": {
+      "A": "the price of the stock is bracketed by an upper and lower band along with a 21-day simple moving average.",
+      "B": "the price of the stock is the same as simple moving average.",
+      "C": "average price of the stock of the same day.",
+      "D": "the difference of upper band and lower band."
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": "83",
+    "question": "If market is perfectly efficient, which of the followings will still be able to generate returns?",
+    "options": {
+      "A": "High frequency traders",
+      "B": "Active portfolio managers",
+      "C": "Passive portfolio managers  Correct answer: D  Question 84: Which of the following is a not assumed as part of the Efficient Markets Hypothesis?  A) The current price reflects all available information and quickly adjusts based on demand B) There are a large number of investors competing for gains C) New informationarrives constantly arrives  and randomly",
+      "D": "The current price reflects all available information and slowly adjusts based on demand"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": "191",
+    "question": "Which factor of the Fundamental Law is easiest to improve?",
+    "options": {
+      "A": "Performance",
+      "B": "Skill",
+      "C": "Breadth",
+      "D": "Information Coefficient"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": "644",
+    "question": "According to the Fundamental Law, which of the following is NOT true:",
+    "options": {
+      "A": "The information ratio is the sharpe ratio of excess return",
+      "B": "Two equally skilled hedge funds can obtain the same performance with different breadths",
+      "C": "It is easier to increase the breadth to get a higher performance",
+      "D": "It is difficult to increase the skill to get a higher performance"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": "586",
+    "question": "Which of the following did NOT happen in the movie \"The Big Short\"?",
+    "options": {
+      "A": "Mark Baum interrupted a live presentation in the American Securitization Forum in Las Vegas.",
+      "B": "Michael Burry sent an e-mail to restrict investors' withdrawals from Scion Capital.",
+      "C": "Mark Baum was convinced to invest into CDOs after his pleasant meeting with the CDO manager.",
+      "D": "Brownfield Fund collaborated with Ben Rickert to short AA tranches."
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": "661",
+    "question": "The Big Short described this technique as something used by banks that would allow them to \"bet\" on the outcome of another \"bet\". This caused somewhat of a loop as more and more \"bets\" were placed on each subsequent \"bet\" created. What was the term used to describe this phenomena?",
+    "options": {
+      "A": "Mortage-backed security (MBS)",
+      "B": "Subprime mortgage bond (SMB)",
+      "C": "Synthetic collateralized debt obligations (CDO-Squared)",
+      "D": "Credit default swap (CDS)"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": "334",
+    "question": "What is the main advantage of a model-free approach like Q-Learning?",
+    "options": {
+      "A": "Q-Learning does not require look-ahead or careful weighting",
+      "B": "Q-Learning can easily be applied to domains where all states and/or transitions are not fully defined",
+      "C": "Q-Learning implementations are generally faster than model-bases approaches",
+      "D": "Q-Learning is the best way to avoid overfitting"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": "329",
+    "question": "Consider the following two statements:  a. Q-learning is a model-free method.  b. In Q-learning, to find the maximum reward, a fixed horizon is used.  State whether these are true or false. The first and second truth values in the answers below correspond to statement a and b respectively.",
+    "options": {
+      "A": "True, True",
+      "B": "True, False",
+      "C": "False, True",
+      "D": "False, False"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": "727",
+    "question": "What is the equation for momentum?",
+    "options": {
+      "A": "momentum[t] = price[t] / price[t - n] - 1",
+      "B": "momentum[t] = price[t] / price[t - n:t].mean() - 1",
+      "C": "momentum[t] = price[t].mean()",
+      "D": "momentum[t] = price[t] - SMA[t] / 2 * stdev[t]"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": "121",
+    "question": "What is risk?",
+    "options": {
+      "A": "standard deviation of historical daily return",
+      "B": "covariance of historical daily return",
+      "C": "inverse of sharp ratio",
+      "D": "geometric average rate of logarithmic of annual return"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": "307",
+    "question": "There are 2 portfolio managers: A and B. B makes 4 times the number of trades than that of A in an year. If B has a correlation of greater than 0.5 with the actual returns then what should A's correlation with actual returns be in order to outperform B",
+    "options": {
+      "A": "1",
+      "B": "0.5",
+      "C": "0.9",
+      "D": "A cannot outperform B"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": "14",
+    "question": "Which of these could represent a State in a Reinforcement Learning problem when referring to a trading scenario?",
+    "options": {
+      "A": "BUY",
+      "B": "Daily Return",
+      "C": "Return from Trade",
+      "D": "All of the above"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": "211",
+    "question": "When trying to maximize reward in reinforcement learning, what formulation is not valid?",
+    "options": {
+      "A": "infinite horizon",
+      "B": "Markov decision",
+      "C": "finite horizon",
+      "D": "discounted reward"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": "614",
+    "question": "What is the the definition of the Information Ratio for the portfolio, which return is presented as following :   r(t) =  beta * r_m(t) + alpha(t),   where r_m(t) is a market return.  For simplicity assume that the daily return of the portfolio is daily_ret(t).",
+    "options": {
+      "A": "IR = mean(alpha(t))/std(alpha(t))",
+      "B": "IR = mean(daily_ret(t))/ std(daily_ret(t))",
+      "C": "IR = alpha(t)",
+      "D": "IR  is a number of trading opportunities per year"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": "160",
+    "question": "An option that can be exercised profitably for the holder is said to be ____; otherwise, it is  ______.",
+    "options": {
+      "A": "out of the money; in the money",
+      "B": "in the money; out of the money",
+      "C": "a tax liability; speculative bet",
+      "D": "covered call; naked call"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": "779",
+    "question": "To triple the information ratio of our hedge fund we can ...",
+    "options": {
+      "A": "Increase our Breadth by 3 times",
+      "B": "Decrease our Information Coefficient by 3 times",
+      "C": "Decrease our Breadth by 3 times",
+      "D": "Increase our Breadth by 9 times"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": "60",
+    "question": "Which of the following are characteristics of technical analysis?    i. price of stock  ii. value of a company  iii. volume of stock traded",
+    "options": {
+      "A": "i only",
+      "B": "i and ii",
+      "C": "i and iii",
+      "D": "i, ii, and iii"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": "420",
+    "question": "Which of the following pieces of information is NOT used by Markov decision processes to find a policy?",
+    "options": {
+      "A": "S, a set of states",
+      "B": "R, a reward function",
+      "C": "A, a set of actions",
+      "D": "Gamma, a weight of future reward values"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": "310",
+    "question": "The Information Ratio (IR) is the same calculation as _____, but only on the \"skill\" portion of the return. (Fill in the blank)",
+    "options": {
+      "A": "Bollinger Ratio",
+      "B": "Sharpe Ratio",
+      "C": "Standard Deviation",
+      "D": "Information Coefficient"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": "585",
+    "question": "Which of the following terms is NOT a concept of Markov decision process:",
+    "options": {
+      "A": "state",
+      "B": "reward",
+      "C": "behavior",
+      "D": "action"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": "768",
+    "question": "The Fundamental Law:  Suppose there are two information sources. The IC for each source is 0.01 and the correlation between two sources is 1. what is the skill level of the combined sources?",
+    "options": {
+      "A": "0.02",
+      "B": "0.01",
+      "C": "0.015",
+      "D": "0"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": "309",
+    "question": "The point at which the tangent line from origin hits the efficient frontier gives us ____________",
+    "options": {
+      "A": "Max Cumulative Return",
+      "B": "Max Sharpe Ratio",
+      "C": "Max Average Daily return",
+      "D": "Risk free return"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": "65",
+    "question": "Which of the following choices is not an assumption made by the Efficient Market Hypothesis?",
+    "options": {
+      "A": "There are a large number of investors",
+      "B": "Prices adjust quickly",
+      "C": "Prices reflect all available information",
+      "D": "The market can be beaten by efficient trading practices"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": "372",
+    "question": "______ is an example of a reward in a Reinforcement Learning trading problem.",
+    "options": {
+      "A": "short selling",
+      "B": "SMA",
+      "C": "cumulative return",
+      "D": "RSI"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": "712",
+    "question": "Which of the following may be used for technical analysis?",
+    "options": {
+      "A": "A company's book value",
+      "B": "A company's stock price",
+      "C": "A company's intangible value",
+      "D": "A company's intrinsic value"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": "396",
+    "question": "Which form of Efficient Market Hypothesis (EMH) says we cannot make money in stock market based on insider information.",
+    "options": {
+      "A": "Strong",
+      "B": "Weak",
+      "C": "Semi-strong",
+      "D": "None of the Above"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": "25",
+    "question": "In an actively managed portfolio, what strategy may help you improve breadth?",
+    "options": {
+      "A": "Increase your information ratio",
+      "B": "Finding additional stocks and markets",
+      "C": "Increase your information coefficients",
+      "D": "Trade ETFs only"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": "209",
+    "question": "Which of the following is NOT assumed by the efficient market hypothesis?",
+    "options": {
+      "A": "There is a large number of investors participating in the market.",
+      "B": "New information arrives predictably.",
+      "C": "A stocks price quickly adjust to any new information.",
+      "D": "A stocks current price reflects all information about that stock."
+    },
+    "correct_answer": "B"
   }
 ]

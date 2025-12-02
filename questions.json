@@ -7881,7 +7881,7 @@
     "options": {
       "A": "It doesn't matter because both strategies have the same expected return",
       "B": "Betting a dollar at 1000 booths because you lower risk",
-      "C": "Betting 1000 at a single booth because it is higher reward  Correct answer: B Question 753: Simple Moving Average and Standard Deviation of a stock's price are technical indicators of what, respectively:  A) Volatility, and Momentum B) Momentum, and Volatility C) Both are indicators of Volatility",
+      "C": "Betting 1000 at a single booth because it is higher reward",
       "D": "Both are indicators of momentum"
     },
     "correct_answer": "B"

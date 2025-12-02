@@ -165,7 +165,7 @@ def update_question(submit_clicks, timer_tick, next_clicks, back_clicks, reset_c
             question_history.append(q)
             current_index = len(question_history) - 1
         status_text = f"{len(answered_correctly)} of {total_questions} correct"
-        return q["question"], [{"label": f"{k}: {v}", "value": k} for k, v in q["options"].items()], selected_option, feedback, False, progress, status_text
+        return q["question"], [{"label": f"{k}: {v}", "value": k} for k, v in q["options"].items()], selected_option, feedback, True, progress, status_text
 
     # Timer auto-advance
     if ctx.triggered and "feedback-timer" in ctx.triggered[0]["prop_id"]:
