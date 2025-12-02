@@ -262,5 +262,258 @@
       "D": "35421"
     },
     "correct_answer": "C"
+  },
+  {
+    "question_number": "194",
+    "question": "Which of the following statements about Q learning is true?",
+    "options": {
+      "A": "A low value of alpha means that previous Q value is more strongly preserved.",
+      "B": "A low value of alpha means that new Q value is more strongly preserved.",
+      "C": "A low value of gamma means that we value later rewards very significantly",
+      "D": "None of the above"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": "129",
+    "question": "In Q-Learning an experience tuple is denoted by . What do the variables s, a, s' and r stand for?",
+    "options": {
+      "A": "s = initial state, a = action, s' = new state, r = risk",
+      "B": "s = initial state, a = action, s' = new state, r = reward",
+      "C": "s = new state, a = action, s' = initial state, r = reward",
+      "D": "s = initial state, a = alpha value, s' = new state, r = risk"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": "137",
+    "question": "Which form of the Efficient Market Hypothesis states that stock prices are affected by ONLY the past price information.",
+    "options": {
+      "A": "Weak",
+      "B": "Semi-strong",
+      "C": "Strong",
+      "D": "All of the above."
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": "566",
+    "question": "Reinforcement algorithms solve which of the following problem",
+    "options": {
+      "A": "Linear Regression",
+      "B": "Markov Decision Problem",
+      "C": "Supervised Regression",
+      "D": "KNN"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": "638",
+    "question": "Which of the following is NOT one of the assumptions of the Efficient Market Hypothesis (EMF)?",
+    "options": {
+      "A": "New information arrives randomly",
+      "B": "Prices adjust quickly",
+      "C": "Small number of investors operating in the market for profit",
+      "D": "Prices reflect all available information"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": "524",
+    "question": "Which isn\u2019t a good indicator for technical analysis?",
+    "options": {
+      "A": "simple moving average",
+      "B": "interest rates",
+      "C": "momentum",
+      "D": "Bollinger Bands"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": "596",
+    "question": "Which of the following statements is \"False\" if the Strong version of the Efficient Market Hypothesis is true:",
+    "options": {
+      "A": "It is impossible to make money by holding a portfolio other than the market portfolio.",
+      "B": "Prices reflect all information public and private.",
+      "C": "Investors can hold a portfolio of stocks that performs better than the market portfolio.",
+      "D": "Even insider information can\u2019t be leveraged to profit in the market."
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": "518",
+    "question": "Considering the following code, what is the final output:  import numpy as np   a = np.arange(6)  b = a  b.shape = 3, 2  b = b.reshape(2,3)  print a",
+    "options": {
+      "A": "[0, 1, 2, 3, 4, 5]",
+      "B": "[[0, 1], [2, 3], [4, 5]]",
+      "C": "[[0, 1, 2], [3, 4, 5]]",
+      "D": "[[0, 1, 2, 3], [4, 5]]"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": "22",
+    "question": "According to the Fundamental Law, which of the following statements is most accurate?",
+    "options": {
+      "A": "Increasing skill and/or breadth will increase performance, but it's more difficult to increase breadth than skill, and increasing skill isn't as effective as increasing breadth.",
+      "B": "Increasing skill and/or breadth will increase performance, but it's more difficult to increase skill than breadth, and increasing breadth isn't as effective as increasing skill.",
+      "C": "Utilizing machine learning will increase performance.",
+      "D": "A Georgia Tech education including CS7646 coursework will increase performance."
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": "573",
+    "question": "The main cause of 2007 housing crash was that banks were selling ____  CDO's consisting of ____ subprime loans",
+    "options": {
+      "A": "large , unstable",
+      "B": "large,  expensive",
+      "C": "unstable , large",
+      "D": "unstable,  expensive"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": "273",
+    "question": "Which components are required to build an experience tuple to be used to find the policy in reinforcement learning?   Correct answer: A  Question 274: Select the version of EMH for which the following statement holds true: \"Future asset prices cannot be predicted using historical price and volume data. \"",
+    "options": {
+      "A": "Semi-strong form",
+      "B": "Weak form",
+      "C": "Strong form",
+      "D": "None of the above"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": "743",
+    "question": "A company's current stock price is 50 dollar per share. Current long-term corporate bond yield is 5%. The dividend yield has been 10% for 10 years. An executive just sold her shares for 49 dollars per share. Suppose the market is strong-form efficient, what would be the dividend this year?",
+    "options": {
+      "A": "2.5",
+      "B": "5",
+      "C": "4.9",
+      "D": "2.45"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": "154",
+    "question": "What is a Synthetic CDO?",
+    "options": {
+      "A": "CDO of defaulted mortgages",
+      "B": "CDO of triple-A rated bonds",
+      "C": "CDO of bets placed based on the performance of other assets",
+      "D": "CDO of treasury bonds"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": "591",
+    "question": "If a trader increases his number of trades from 100 to 400, how much will his Information Ratio increase by?",
+    "options": {
+      "A": "1 time",
+      "B": "2 times",
+      "C": "4 times",
+      "D": "8 times"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": "12",
+    "question": "Which of the following is not the keys of Grinold's fundamental law?",
+    "options": {
+      "A": "Skill",
+      "B": "Performance",
+      "C": "Luck",
+      "D": "Breadth"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": "469",
+    "question": "Which of the following makes up a Markov Decision Problem?",
+    "options": {
+      "A": "set of actions, transition function and state function",
+      "B": "set of states, set of actions, transition function and reward function",
+      "C": "set of states,  reward function and action function",
+      "D": "set of states, set of actions and reward function"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": "709",
+    "question": "For Q-learning to converge we need to correctly manage the exploration vs exploitation tradeoff. Which of the following is the correct approach for the exploration strategy?",
+    "options": {
+      "A": "Every action needs to be tried sufficiently often in every state.",
+      "B": "Every action needs to be tried as few times as possible to avoid duplication.",
+      "C": "The number of times that every action is tried needs to be balanced with how frequently the algorithm exploits that action.",
+      "D": "None of the above."
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": "70",
+    "question": "Stock options can increase the ___________ of a portfolio, as the investor can keep more cash on hand up to the expiration date.",
+    "options": {
+      "A": "value",
+      "B": "leverage",
+      "C": "riskiness",
+      "D": "stability"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": "690",
+    "question": "Which one of the following is NOT a technical indicator?",
+    "options": {
+      "A": "Simple Moving Average of price",
+      "B": "Bollinger Band",
+      "C": "Relative Strength Index",
+      "D": "Dividend yield"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": "24",
+    "question": "Which of the following statements about Dyna is true?",
+    "options": {
+      "A": "Dyna is a model-free based method.",
+      "B": "Dyna is the basis for Q-Learning.",
+      "C": "Dyna is a blend of model-free and model-based methods",
+      "D": "Dyna is more expensive than Q-Learning"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": "352",
+    "question": "What is the main difference between US and European style stock options?",
+    "options": {
+      "A": "Under US style, you can\u2019t choose to exercise your option prior to expiration date, but it is convenient for EU style",
+      "B": "Under EU style, you can\u2019t choose to exercise your option prior to expiration date, but it is convenient for US style",
+      "C": "US style option does not have a set strike price, but EU options have",
+      "D": "There is no difference"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": "110",
+    "question": "Which of the below statements is most correct about Dyna?",
+    "options": {
+      "A": "Dyna utilizes a model-free based method.",
+      "B": "Dyna utilizes a model-based method.",
+      "C": "A and B.",
+      "D": "None of the above."
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": "486",
+    "question": "You are an running a hedge fund. According to the Fundamental Law of Portfolio Management, which of the following have the greatest positive impact on your portfolio?",
+    "options": {
+      "A": "Doubling the correlation of predicted asset prices to actual asset prices.",
+      "B": "Doubling the number of positions taken in the portfolio.",
+      "C": "Decreasing commissions by cutting the number of trades in half.",
+      "D": "A and B are the same."
+    },
+    "correct_answer": "A"
   }
 ]

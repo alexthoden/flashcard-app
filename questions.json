@@ -2838,8 +2838,8 @@
     "correct_answer": "A"
   },
   {
-    "question_number": "273",
-    "question": "Which components are required to build an experience tuple to be used to find the policy in reinforcement learning?   Correct answer: A  Question 274: Select the version of EMH for which the following statement holds true: \"Future asset prices cannot be predicted using historical price and volume data. \"",
+    "question_number": "274",
+    "question": "Correct answer: A  Question 274: Select the version of EMH for which the following statement holds true: \"Future asset prices cannot be predicted using historical price and volume data. \"",
     "options": {
       "A": "Semi-strong form",
       "B": "Weak form",
