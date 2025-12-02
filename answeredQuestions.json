@@ -1,0 +1,266 @@
+[
+  {
+    "question_number": "745",
+    "question": "Consider the following statements: Stock prices adjust immediately to new public information, so investors can use neither fundamental nor technical analysis to make profits on the market. However, insider information may help investors. Which of the following best describes these statements?",
+    "options": {
+      "A": "Weak form of Efficient Market Hypothesis",
+      "B": "Semi-weak form of Efficient Market Hypothesis",
+      "C": "Strong form of Efficient Market Hypothesis",
+      "D": "Super-strong form of Efficient Market Hypothesis"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": "536",
+    "question": "What is NOT a technical analysis characteristic?",
+    "options": {
+      "A": "Earnings",
+      "B": "Price",
+      "C": "Volume",
+      "D": "Both B and C"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": "522",
+    "question": "What are the inputs to the Mean Variance Optimization algorithm?",
+    "options": {
+      "A": "Daily returns, Standard Deviation, Correlation, Expected return",
+      "B": "Expected return, Sharpe Ratio, Correlation, Target return",
+      "C": "Expected return, Weights, Standard Deviation, Cumulative return",
+      "D": "Expected return, Standard Deviation, Correlation, Target return"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": "57",
+    "question": "What is the correct sequence for the cycle describing the RL problem?",
+    "options": {
+      "A": "Analyze, Remember, Act",
+      "B": "Sense, Think, Act",
+      "C": "Think, Sense, Act",
+      "D": "Remember, Act, Analyze,"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": "6",
+    "question": "If the Information Coefficient is doubled and the trading opportunities are multiplied by 9, what happens to the Information Ratio.",
+    "options": {
+      "A": "The Information Ratio is multiplied by 1 (remains unchanged)",
+      "B": "The Information Ratio is multiplied by 4.5",
+      "C": "The Information Ratio is multiplied by 6",
+      "D": "The Information Ratio is multiplied by 18"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": "108",
+    "question": "What does the housing crisis suggest about the Efficient Market Hypothesis?",
+    "options": {
+      "A": "It corroborates the EMH because certain hedge funds were able to short the housing market using data collected from mortgage data.",
+      "B": "Market bubbles don't exist. The Economy is perfect. Everything is always fine.",
+      "C": "It contradicts the EMH because information relevant to the crash was not reflected in housing market share prices.",
+      "D": "It corroborates the EMH because the crash could have been easily predicted from the available stock price information."
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": "79",
+    "question": "What problem would be most effectively addressed by reinforcement learning?",
+    "options": {
+      "A": "Forecasting the weather by analyzing instantaneous measurements",
+      "B": "Scoring wine based on graded taste features",
+      "C": "Using sensors to navigate an environment",
+      "D": "Recognizing a song after sampling a small portion of it"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": "401",
+    "question": "Let say you are using reinforcement learning to makes trades, which of the following could be considered a reward for your trades?",
+    "options": {
+      "A": "Bollinger Value",
+      "B": "Holding Long",
+      "C": "Buy Stock",
+      "D": "Daily Return"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": "382",
+    "question": "Which of the following Efficient Markets Hypothesis assumptions is false?",
+    "options": {
+      "A": "Prices reflect all available information",
+      "B": "Prices adjusts quickly",
+      "C": "New information arrives randomly",
+      "D": "A small number of investors"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": "133",
+    "question": "If a portfolio manager's skill remains constant(IC) and to improve the overall performance(IR) of portfolio  by 5 times, using the fundamental law how much should the number of trades increase by?",
+    "options": {
+      "A": "5 times",
+      "B": "25 times",
+      "C": "10 times",
+      "D": "100 times"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": "276",
+    "question": "Given two trade strategies with the same expected return (reward), trade strategy A involves a single trade with a Sharpe Ratio of 0.15, while trade strategy B involves 144 trades over a one-year period. What is the Sharpe Ratio of trade strategy B?",
+    "options": {
+      "A": "55.8",
+      "B": "1.8",
+      "C": "0.06",
+      "D": "2.87"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": "754",
+    "question": "Which statement is False?",
+    "options": {
+      "A": "Reinforcement learning can be understood using the concepts of agents, environments, states, actions and rewards",
+      "B": "Reinforcement learning solves the difficult problem of correlating immediate actions with the delayed returns they produce.",
+      "C": "Reinforcement learning assumes knowledge of an exact mathematical model of the MDP unlike classical dynamic programming methods.",
+      "D": "Reinforcement learning in systems with unknown environment where the agent must trade off efficiently between exploration(long-term optimization) and exploitation (short-term optimization)"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": "497",
+    "question": "If S = spot price, E = exercise price, then the value of a put option is",
+    "options": {
+      "A": "MAX(0, E - S)",
+      "B": "MAX(0, S - E)",
+      "C": "MIN(0, E - S)",
+      "D": "MIN(0, S - E)"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": "31",
+    "question": "In the movie, The Big Short, characters in the film, such as Michael Burry, would acquire ________ in order to short the MBS(Mortgage Backed Securities) which means betting against the housing market.",
+    "options": {
+      "A": "Synthetic CDO",
+      "B": "CDO Squared",
+      "C": "Credit Default Swaps",
+      "D": "Sub-prime mortgages"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": "726",
+    "question": "How is a simple moving average calculated?",
+    "options": {
+      "A": "The change in price between a start and end date is calculated and then divided by the number of days between the two dates, including the start date but excluding the end date.",
+      "B": "Recent closing prices are added and then divided by the number of time periods in the calculation average.",
+      "C": "Average gain of up periods during the specified time frame is divided by the average loss of down periods during the specified time frame.",
+      "D": "Blue! Nooooo!!!"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": "436",
+    "question": "Which of the following is NOT an assumption taken under EMH?",
+    "options": {
+      "A": "Large number of Investors",
+      "B": "Prices adjust quickly",
+      "C": "Prices reflect all information",
+      "D": "New Information is predictable"
+    },
+    "correct_answer": "D"
+  },
+  {
+    "question_number": "678",
+    "question": "Which of the following are true for Fundamental Law of Active Management:  A: Information Ratio is risk adjusted reward   B: Transaction cost is accounted in Fundamental Law  C: Trading opportunities must be independent  D: Information Coefficient is constant and can be easily calculated",
+    "options": {
+      "A": "A and C",
+      "B": "B and C",
+      "C": "A, C and D",
+      "D": "All the above"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": "574",
+    "question": "According to the fundamental law of active portfolio management, which of the following generates a higher Sharpe ratio:",
+    "options": {
+      "A": "Lower alpha",
+      "B": "Higher alpha",
+      "C": "Constant alpha",
+      "D": "Swiming naked"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": "775",
+    "question": "Which of the following statement is incorrect?",
+    "options": {
+      "A": "The fundamental law is designed to give us insight into active management.",
+      "B": "The fundamental law is designed to give us insight into passive management.",
+      "C": "The fundamental law connects breadth and skill to the information ratio",
+      "D": "All of the above are correct."
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": "488",
+    "question": "Why is Dyna preferred over basic Q-Learning?",
+    "options": {
+      "A": "Dyna-Q can handle positive rewards, while basic Q-Learning cannot",
+      "B": "Dyna-Q converges faster than Q-Learning",
+      "C": "Basic Q-learning hallucinates extra data, rather than using actual data",
+      "D": "Dyna-Q was designed for financial systems"
+    },
+    "correct_answer": "B"
+  },
+  {
+    "question_number": "315",
+    "question": "Which of the following is an assumption used in the Efficient Market Hypothesis?",
+    "options": {
+      "A": "prices adjust quickly",
+      "B": "number of investors is small",
+      "C": "information comes from company insiders",
+      "D": "new information arrives at regular intervals"
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": "439",
+    "question": "Two investors have equal active portfolio performance. One investor successfully doubles his skill. Using the Law of Active Portfolio management, how should the other investor adjust his breadth to match the performance of the first investor?",
+    "options": {
+      "A": "Decrease breadth in half",
+      "B": "Double breadth",
+      "C": "Quadruple breadth",
+      "D": "Add change in skill to breadth"
+    },
+    "correct_answer": "C"
+  },
+  {
+    "question_number": "642",
+    "question": "What is the meaning of the discounted reward in the context of reinforcement learning?",
+    "options": {
+      "A": "The believed value of a future reward but in present time.",
+      "B": "The future rewards value we are sure to gain over time.",
+      "C": "The immediate reward minus a constant value.",
+      "D": "The immediate reward plus a constant value."
+    },
+    "correct_answer": "A"
+  },
+  {
+    "question_number": "222",
+    "question": "In the Q-Learning algorithm assume we are in the second iteration with an experience tuple. List down the correct sequence of the below given steps to be followed to make sure we correctly update our Q table      1 Information we just learned is taken to improve Q  2 Observe reward and s'  3 State s is computed  4 Q table is set with small random numbers and the time is initialized  5 We consult our policy, or in other words we consult Q to find the best action in the current state",
+    "options": {
+      "A": "45321",
+      "B": "34512",
+      "C": "43521",
+      "D": "35421"
+    },
+    "correct_answer": "C"
+  }
+]
